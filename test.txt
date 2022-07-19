@@ -6,4 +6,4 @@ This is a change!
 
 This is another change!
 
-This is the result!
+Changed on new-feature branch!
